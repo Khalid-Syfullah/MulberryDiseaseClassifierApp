@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MulberryDiseaseClassifier</string>
+    <string name="splash_title">Mulberry Disease Classifier</string>
+    <string name="dashboard_line_1">Scan and Classify</string>
+    <string name="dashboard_line_2">Mulberry Leaf Images</string>
+    <string name="dashboard_line_3">Upto 2 diseases</string>
+    <string name="dashboard_line_4">Press \'Load/Scan\' button</string>
+    <string name="dashboard_line_5">To Load/Capture Image</string>
+    <string name="classifier_line_1">Load a Plant Image with signs of Leaf Spot, Leaf Rust, Disease Free etc.</string>
+    <string name="classifier_line_2">Select a Leaf Image</string>
+    <string name="launch">Launch</string>
+    <string name="load">Load</string>
+    <string name="scan">Scan</string>
+
+</resources>

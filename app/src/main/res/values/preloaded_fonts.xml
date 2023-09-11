@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/capriola</item>
+        <item>@font/chango</item>
+        <item>@font/goblin_one</item>
+        <item>@font/lalezar</item>
+        <item>@font/montez</item>
+        <item>@font/montserrat_alternates_bold</item>
+        <item>@font/montserrat_alternates_medium</item>
+        <item>@font/raleway</item>
+    </array>
+</resources>

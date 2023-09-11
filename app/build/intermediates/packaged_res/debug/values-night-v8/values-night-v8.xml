@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <style name="TextViewA" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">22dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/goblin_one</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/button_bordered</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="TextViewB" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="TextViewC" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/goblin_one</item>
+        <item name="android:textColor">@color/purple</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="TextViewD" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">22dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/lalezar</item>
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="TextViewE" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">22dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/lalezar</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Theme.MulberryDiseaseClassifier" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/saddle_brown</item>
+        <item name="colorPrimaryVariant">@color/indian_red</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/coral</item>
+        <item name="colorSecondaryVariant">@color/dark_goldenrod</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
